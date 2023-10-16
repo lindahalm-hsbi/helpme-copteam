@@ -2,6 +2,10 @@
 
 **Lehren Sie in einem Fach mit Mathematikbezug? Und benötigen Ihre Studierenden gerade zum Studienstart eine Auffrischung in der Schulmathematik? Dann empfehlen Sie Ihren Studierenden die offenen Online-Mathematikkurse auf ORCA.nrw!**
 
+Bild:
+![Symbol des SA-Moduls der CC-Lizenzen: runder, nicht geschlossener schwarzer Pfeil in einem schwarzen Kreis](https://mirrors.creativecommons.org/presskit/icons/sa.xlarge.png  "sa.xlarge.png")
+
+
 Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.nrw einfach mit ihren persönlichen Hochschul-Zugangsdaten  anmelden und die Kurse unabhängig von ihrer Hochschule absolvieren.
 
 - **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)**  Online-Self-Assessment zur Prüfung des | eigenen Wissenstandes.
