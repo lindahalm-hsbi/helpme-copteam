@@ -1,5 +1,3 @@
-![Bildschirmfoto 2023-08-30 um 09 49 23](https://github.com/lindahalm-hsbi/testoer/assets/147709351/0cb34019-e144-4c8e-810e-088a67c51a0d)
-
 # Schulmathematik auffrischen: Online-Mathematikkurse zum Studienstart auf ORCA.nrw
 
 **Lehren Sie in einem Fach mit Mathematikbezug? Und benötigen Ihre Studierenden gerade zum Studienstart eine Auffrischung in der Schulmathematik? Dann empfehlen Sie Ihren Studierenden die offenen Online-Mathematikkurse auf ORCA.nrw!**
@@ -15,7 +13,7 @@ verfügbar. Am Anfang des Kurses steht ein Eingangstest, der weiter führt
 
 Die Angebote sind als Open Educational Resources unter CC BY oder CC  BY-SA Lizenz veröffentlicht. So können Sie als Lehrende das Material bei  Bedarf auch nachnutzen und verändern.
 ## Weiterlesen
-
+▶️ 
 [Zur Webseite Studieneingangs­phase auf ORCA.nrw](https://www.orca.nrw/studierende/studieneingangsphase)
 
 ## Bildnachweise
