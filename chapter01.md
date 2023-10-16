@@ -4,9 +4,9 @@
 
 Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.nrw einfach mit ihren persönlichen Hochschul-Zugangsdaten  anmelden und die Kurse unabhängig von ihrer Hochschule absolvieren.
 
-- **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)** | Online-Self-Assessment zur Prüfung des eigenen Wissenstandes.
+- **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)**  Online-Self-Assessment zur Prüfung des eigenen Wissenstandes.
 - **[Online Mathematik Brückenkurs OMB+](https://www.orca.nrw/kurse/ombplus)**
- | Ausführliche Erläuterungen zu 11 Themen und in mehreren Sprachen 
+  Ausführliche Erläuterungen zu 11 Themen und in mehreren Sprachen 
 verfügbar. Am Anfang des Kurses steht ein Eingangstest, der weiter führt
  in die Lernkapitel, die Schwierigkeiten bereitet haben. Dort warten 
 Übungsaufgaben, Trainingseinheiten und Quizze.
