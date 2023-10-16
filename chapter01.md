@@ -1,17 +1,24 @@
-# Pythagorean theorem
+# Schulmathematik auffrischen: Online-Mathematikkurse zum Studienstart auf ORCA.nrw
 
-## Representation
+**Lehren Sie in einem Fach mit Mathematikbezug? Und benötigen Ihre Studierenden gerade zum Studienstart eine Auffrischung in der Schulmathematik? Dann empfehlen Sie Ihren Studierenden die offenen Online-Mathematikkurse auf ORCA.nrw!**
 
-![Representation of the Pythagorean Theorem](https://upload.wikimedia.org/wikipedia/commons/d/d1/01-Rechtwinkliges_Dreieck-Pythagoras.svg)  
+Studierende der Hochschulen in NRW können sich auf der Lernplattform  von ORCA.nrw einfach mit ihren persönlichen Hochschul-Zugangsdaten  anmelden und die Kurse unabhängig von ihrer Hochschule absolvieren.
 
-![Tree at the lake](https://upload.wikimedia.org/wikipedia/commons/c/c1/Regnitz-Baum-1012073.jpg)
+- **[WINT-Check Mathematik](https://www.orca.nrw/assessments/wint-check)** | Online-Self-Assessment zur Prüfung des eigenen Wissenstandes.
+- **[Online Mathematik Brückenkurs OMB+](https://www.orca.nrw/kurse/ombplus)**
+ | Ausführliche Erläuterungen zu 11 Themen und in mehreren Sprachen 
+verfügbar. Am Anfang des Kurses steht ein Eingangstest, der weiter führt
+ in die Lernkapitel, die Schwierigkeiten bereitet haben. Dort warten 
+Übungsaufgaben, Trainingseinheiten und Quizze.
 
-![Petri net](https://upload.wikimedia.org/wikipedia/commons/0/08/PetriNetzVentil.png)
+Die Angebote sind als Open Educational Resources unter CC BY oder CC  BY-SA Lizenz veröffentlicht. So können Sie als Lehrende das Material bei  Bedarf auch nachnutzen und verändern.
+## Weiterlesen
 
-## The formula
+[Zur Webseite Studieneingangs­phase auf ORCA.nrw](https://www.orca.nrw/studierende/studieneingangsphase)
 
-```math
-a^2 + b^2 = c^2
-```
-
-see [chapter 4](chapter04.md#assignment)
+## Bildnachweise
+Grafik von [CocoMaterial](https://cocomaterial.com/) CC0
+## Tags
+Studienstart, Selbstlernkurse, Mathematik
+## Lizenznachweis
+Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 28.09.2023, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
