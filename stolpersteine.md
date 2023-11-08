@@ -10,7 +10,8 @@
 
 # Potentielle Probleme bei der Bearbeitung der Datei in MarkdownMonster:
 - Mit F12 könnt ihr zwischen dem Präsentations- und dem Einfügenmodus wechseln
-- Kopierte Inhalte können über das Menü "Edit > Paste HTML as markdown" eingefügt werden. Falls das nicht funktioniert, kann man stattdessen die Tastenkombination control + shift + v nutzen. 
+- Kopierte Inhalte können über das Menü "Edit > Paste HTML as markdown" eingefügt werden. Falls das nicht funktioniert, kann man stattdessen die Tastenkombination control + shift + v nutzen.
+- Wenn das auch nicht geht und Marlkdown Monster eine Lizenz verkaufen möchte, dann ein paar mal das wiederholen und z.B. in die erste Zeile mal ein paar Textzeichen schreiben.
 
 # Previewbild
 - Das Previewbild muss .png Format sein und rechteckig.
