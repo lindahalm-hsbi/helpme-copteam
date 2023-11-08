@@ -4,7 +4,7 @@ Noch zu übertragen:
 
 ______________ 2 0 2 3 __________________________________________________________
 
-    13.01.2023: “Videos produzieren & miteinander teilen – Der OER-Goldstandard für Videos” (Bianca) https://community.orca.nrw/content/perma?id=77436
+   
    
     15.02.2023 “Stimmen der OER-Community – 3 Fragen an Dr. Sabine Preusse” (Bianca Geurden) https://community.orca.nrw/content/perma?id=83606
     22.02.2023 “Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht” (Magda) https://community.orca.nrw/content/perma?id=85079
