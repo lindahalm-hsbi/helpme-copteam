@@ -19,7 +19,6 @@ ______________ 2 0 2 3 _________________________________________________________
 ______________ 2 0 2 2 __________________________________________________________
 
     
-    09.03.2022: “Fünf Freiheiten zur Offenheit - OER eröffnen unendliche Möglichkeiten in der digitalen Lehre” (Tassja) https://community.orca.nrw/content/perma?id=24083
     15.03.2022: “Podcast zu ORCA.nrw und den ORCA-Berater*innen an NRW-Hochschulen” (Magda) https://community.orca.nrw/content/perma?id=24956
 
     01.04.2022: “Die OER-Planungshilfe - Schritt für Schritt zur OER” (Bianca)
