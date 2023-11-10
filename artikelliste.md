@@ -27,7 +27,6 @@ ______________ 2 0 2 2 _________________________________________________________
     https://community.orca.nrw/content/perma?id=31307
     28.04.2022: “Was möchten die ORCA-Netzwerkstellen den Lehrenden gern über OER sagen?” (Magda) https://community.orca.nrw/content/perma?id=34001
 
-    10.05.2022: “Musik für Lehrvideos auf ORCA.nrw: OER Tracks” (Elisabeth; auch Blogbeitrag von der Geschäfststelle) https://community.orca.nrw/content/perma?id=35962
     24.05.22: “Freie Personengrafiken für alle!” (Henrike) https://community.orca.nrw/content/perma?id=39241
     07.06.22: “OER Fachtag Naturwissenschaften” (Elisabeth) https://community.orca.nrw/content/perma?id=40912
     24.06.22: “Über den Tellerrand geschaut: OER-Veranstaltungshinweise für den Juni und Juli” (Laura) https://community.orca.nrw/content/perma?id=43816
