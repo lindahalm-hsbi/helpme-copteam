@@ -41,9 +41,9 @@ aber alle haben TAGS bekommen (nämlich die humhub-"Themen", die wir ausgewählt
 und jeder Artikel wurde von einer Person aus dem Redaktionsteam geschrieben und an einem Datum in der CoP veröffentlicht.
 
 ACHTUNG: im MarkdownMonster kümmern wir uns noch nicht um die Bilder aus den CoP-Artikeln. Das dort ein Bild vewendet wurde, sieht man in der Markdown-Datei im Editiermodus zwar, das ist eine Zeile die so aussieht:
-    ___________________
-    ![](https://community.orca.nrw/file/file/download?guid=34ac12d6-393c-4692-8f9f-f3d61843c0d7 "school_calculator_1.png")
-    ___________________
+    
+  ! [] ( https://community.orca.nrw/file/file/download?guid=34ac12d6-393c-4692-8f9f-f3d61843c0d7 "school_calculator_1.png" )
+    
 Aber da das Bild auf dem Communityserver bei humhub liegt und nicht öffentlich ist, muss das Bild direkt auf github hochgeladen werden, um angezeigt werden zu können. Das machen wir im zweiten Schritt direkt auf github.
 
 - File Save as: Dateiname setzt sich zusammmen aus dem Veröffentlichungsdatum auf humhub (YYYYMMDD) nem Unterstrich _ und dann 2-3 Wörter als Kurztitel. ACHTUNG: keine Leerstellen und keine Umlaute oder das "ß" benutzen.
