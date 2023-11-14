@@ -8,6 +8,6 @@ Webseite:
 * [Landing page](https://lindahalm-hsbi.github.io/helpme-copteam/)
 
 Oder direkt als:
-* [Ebook](https://lindahalm-hsbi.github.io/helpme-copteam/helpme-copteam.epub)
-* [PDF](https://lindahalm-hsbi.github.io/helpme-copteam/helpme-copteam.pdf)
-* [HTML](https://lindahalm-hsbi.github.io/helpme-copteam/helpme-copteam.html)
+* [Ebook](https://lindahalm-hsbi.github.io/helpme-copteam/document.epub)
+* [PDF](https://lindahalm-hsbi.github.io/helpme-copteam/document.pdf)
+* [HTML](https://lindahalm-hsbi.github.io/helpme-copteam/document.html)
