@@ -35,6 +35,19 @@ und kopieren (Strg. C)
     ## Lizenznachweis
     n.n. für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am DATUM, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
     ________________________________________________
+
+  ALternativ können wir das auch dezenter gestalten:
+  ________________________________________________
+
+    ## Information zum Beitrag
+
+    *Bildnachweise*: Eigener Screenshot Deckblatt
+
+    *Tags*: OER, Materialtipp, Checkliste
+
+    *Lizenznachweis*: Linda Halm für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am 02.03.2022, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+________________________________________________
+
 ... und ausfüllen. 
 Nicht alle Artikel haben was zum WEITERLESEN oder BILDNACHWEISE (dann diese Zeilen löschen),  
 aber alle haben TAGS bekommen (nämlich die humhub-"Themen", die wir ausgewählt haben als Tags): die bitte einsetzen (Komma getrennt)
