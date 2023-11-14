@@ -7,6 +7,8 @@
 - Alle Sonderzeichen (wie z.B. das kleine blaue Dreicksymbol vor unseren Links in HumHub) oder Emojis löschen.
 - Trennlinien können entgegen erster Vermutungen doch problemlos genutzt werden und erzeugen keine Fehler.
 - Im MarkdownMonster kümmern wir uns noch nicht um die Bilder aus den CoP-Artikeln. Das dort ein Bild vewendet wurde, sieht man in der Markdown-Datei im Editiermodus zwar, aber die Bilddatei zeigt auf HumHub und das wird beim Upload auf einen Fehler laufen. Nicht schlimm: die Bilder fügen wir danach hinzu.
+- In die erste Zeile (also die Üebrschrift, die mit einer RAUTE vorweg gekennzeichnet wird) dürfen keine Sternchen verwendet werden (um z.B. was fett zu stellen). In der Preview sieht das zwar ok aus, aber auf der Landing Page wird dann die Überschrift nicht im Inhaltsverzeichnis angezeigt.
+- 
 
 # Potentielle Probleme bei der Bearbeitung der Datei in MarkdownMonster:
 - Mit F12 könnt ihr zwischen dem Präsentations- und dem Einfügenmodus wechseln
