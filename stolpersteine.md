@@ -1,4 +1,4 @@
-# Dateiname:
+# Dateiname: 
 - Benennung der Datei nach folgendem Schema: YYYYMMDD_Kurzer-Titel
 - Dateiendung: .md
 - Wichtig: Dateinamen dürfen keine Umlaute bzw. ß oder Leerstellen enthalten
