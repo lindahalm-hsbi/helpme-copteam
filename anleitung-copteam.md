@@ -22,23 +22,11 @@ und kopieren (Strg. C)
 [sollte MM meckern, dass man eine Lizenz für diese Funktion kaufen soll: einfach ignorieren und den Tsatenbefehl nochmal absetzen]
 - alle Sonderzeichen (wie z.B. das kleine blaue Dreicksymbol vor unseren Links) oder Emojies löschen. Auch die hellgrauen Trennlinien, die man auf humhub nutzen kann, müssen gelöscht werden. Die kann Markdown nicht interpretieren.
 - unser einheitliches Ende hinzufügen.... Das sind diese Zeilen hier:
-    __________________________________________________
+
+________________________________________________
+
     ## Weiterlesen
-    Hier geht es direkt zum <a href="https://lizenzhinweisgenerator.de/" target="_blank">irgendwas</a>
-
-    ## Bildnachweise
-    xx
-
-    ## Tags
-    xx
-
-    ## Lizenznachweis
-    n.n. für das <a href="http://www.orca.nrw/ueber-uns/netzwerk" target="_blank">Netzwerk Landesportal ORCA.nrw</a>, veröffentlicht in der Community of Practice ORCA.nrw am DATUM, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-    ________________________________________________
-
-  ALternativ können wir das auch dezenter gestalten:
-  ________________________________________________
-
+    
     ## Information zum Beitrag
 
     *Bildnachweise*: Eigener Screenshot Deckblatt
@@ -55,7 +43,7 @@ und jeder Artikel wurde von einer Person aus dem Redaktionsteam geschrieben und 
 
 ACHTUNG: im MarkdownMonster kümmern wir uns noch nicht um die Bilder aus den CoP-Artikeln. Das dort ein Bild vewendet wurde, sieht man in der Markdown-Datei im Editiermodus zwar, das ist eine Zeile die so aussieht:
     
-  ! [] ( https://community.orca.nrw/file/file/download?guid=34ac12d6-393c-4692-8f9f-f3d61843c0d7 "school_calculator_1.png" )
+    ! [] ( https://community.orca.nrw/file/file/download?guid=34ac12d6-393c-4692-8f9f-f3d61843c0d7 "school_calculator_1.png" )
     
 Aber da das Bild auf dem Communityserver bei humhub liegt und nicht öffentlich ist, muss das Bild direkt auf github hochgeladen werden, um angezeigt werden zu können. Das machen wir im zweiten Schritt direkt auf github.
 
@@ -79,6 +67,13 @@ Aber da das Bild auf dem Communityserver bei humhub liegt und nicht öffentlich 
 - in der Preview nochmal prüfen ob alles richtig ist
 - Emojies oder blaue Pfeilchen oder Trennlinien aus humhub müssen entfernt sein!
 - auf grünen Button COMMIT CHANGES klicken und bestägigen.
+
+## Bilder: ALternativtext und mouseover
+Man unterscheidet zwischen dem Alternativtext (der für die screenreader da ist) und dem mouseovertext. Beides kann man mitgeben:
+
+    ![Alternativtext](https://github.com/lindahalm-hsbi/infOERmiert/assets/irgendeineNummervomuploadvergeben "mouseovertext")
+
+Auf dieser Seite: https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax stehen noch einige wertvolle Tipps für die Formatierung in Markdown.
 
 # 4  Landing page prüfen
 Nach ein paar Minuten ist die ACTION psoitiv durchgelaufen (grüner Haken dran) und die Landing Page ist erstelt worden. Auf der Code-Übersichtsseite könnt ihr im Teil README auf "LANDNING PAGE" klciek und das Ergebniss überprüfen.
