@@ -75,6 +75,19 @@ Man unterscheidet zwischen dem Alternativtext (der für die screenreader da ist)
 
 Auf dieser Seite: https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax stehen noch einige wertvolle Tipps für die Formatierung in Markdown.
 
+## Bilder: rechtsbündig und verkleinern
+Bilder verkleiner geht (width-Befehl)  und auch diese auf die rechte oder linke Seite zu schieben (float-Befehl). Nicht irritieren lassen: in github sieht man das rechts- oder linksbündig sein NICHT - erst auf der Landing Page wird das umgesetzt.
+
+Wenn ihr statt wie bisher das hier
+
+    ![euer-Alternativtext](https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386 "euer-mouseovertext") 
+
+mit dem hier ersetzt (linksbündig, 150 Pixel breit soll es sein)
+
+    <img src="https://github.com/lindahalm-hsbi/infOERmiert/assets/149470817/b016e961-c1ff-47c0-8b0f-6a0c4bd49386" style="float:left" alt="euer-Alternativtext" title="euer-mouseovertext" width="150"/> 
+
+Die Weite geht auch in %. width="75%"
+
 # 4  Landing page prüfen
 Nach ein paar Minuten ist die ACTION psoitiv durchgelaufen (grüner Haken dran) und die Landing Page ist erstelt worden. Auf der Code-Übersichtsseite könnt ihr im Teil README auf "LANDNING PAGE" klciek und das Ergebniss überprüfen.
 Ist die Action nicht grün, sondern rot, dann hat die -md-Datei noch Fehler und ihr müsst auf die Suche gehen.
