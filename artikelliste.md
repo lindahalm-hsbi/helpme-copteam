@@ -7,8 +7,7 @@ ______________ 2 0 2 3 _________________________________________________________
     15.02.2023 “Stimmen der OER-Community – 3 Fragen an Dr. Sabine Preusse” (Bianca Geurden) https://community.orca.nrw/content/perma?id=83606
     22.02.2023 “Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht” (Magda) https://community.orca.nrw/content/perma?id=85079
     22.03.2023: “Kurzreview Gutachten: Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung” (Svenja) https://community.orca.nrw/content/perma?id=89894
-    06.04.2023 “Fotos gesucht? - Aber bitte Zero!” (Henrike)
-    https://community.orca.nrw/content/perma?id=92804
+
  
 ? wollen wir das mit übernehmen?würde zeigen, was NRW tolles hat?  
 16.05.2023 “Rechtsfragen zu OER? Hier wird geholfen!” (Sabine) https://community.orca.nrw/content/perma?id=100052
