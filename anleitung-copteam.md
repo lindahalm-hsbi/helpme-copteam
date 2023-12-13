@@ -1,20 +1,30 @@
+Diese Anleitung für das CoP-Redaktionsteam wurde geschrieben von Linda Halm am 13.12.2023 und steht im Original zur Verfügung in 2 Teilen auf Github:
+
+https://github.com/lindahalm-hsbi/helpme-copteam/blob/main/anleitung-copteam.md
+
+https://github.com/lindahalm-hsbi/helpme-copteam/blob/main/stolpersteine.md
+
+Lizenz: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/legalcode.de
+
+# Hintergrund
+
 Die TIB Hannover, die auch für den Suchindex OERSI verantwortlich ist, hat ein Tutorial erstellt: Create and publish OER with GitHub https://liascript.github.io/course/?https://raw.githubusercontent.com/TIBHannover/oer-github-tutorial/main/tutorial.md#1
 Damit kann man in nur ein paar Minuten OER schreiben und veröffentlichen auf OERSI, wenn man das Template der TIB benutzt. Das Template ist das hier: https://github.com/TIBHannover/markdown-documents-template
 Mann kann sich das Template kopieren (so hab ich es gemacht) und damit weiter arbeiten indem man neue .md-Dateien hinzufügt und die 4 vorhandenen löscht.
 Diese vier Chapter im Template erklären übrigens, wie man in Markdown Bilder einfügt, Formeln benutzt, Videos einbettet (aus Youtube oder dem twillo/TIB-AV-Portal) und H5P-Bausteine einbettet: https://github.com/TIBHannover/markdown-documents-template
 
-# 1 Kurzeinführung Markdown Monster (MM)
+# So geht's
 Wir nutzen die Software Markdown Monster um die HTML-Texte aus der CoP per copy und paste in Markdown zu konvertieren. Das geht nicht auf github selber. Da kann man auch Markdown schreiben, aber muss dann alle URL-Links etc selbst setzen
 Es gibt auch andere Markdown-Editoren. Auf dieser Seite gibt es Empfehlungen: https://github.com/mundimark/awesome-markdown-editors
 
-## Vorarbeiten
-1. Markdown Monster (abgeküzt: MM) installieren
+## Vorarbeiten im MarkdownMonster
+1. Markdown Monster installieren
 2. File > New (Crtl + N)
 3. im schwarzen Feld ist ein neuer Tab aufgegangen: "untitled"
 4. Taste F12: zwischen dem Vorschaufenster (Preview Window: ist komplett schwarz und hat eine ovale Rahmenlinie in hellgrau in der 1.ten Zeile)) und dem Schreibeditor (das hat ganz oben eine leicht hellgrauere Zeile in die ich tippen darf) hin und herwechseln.
 5. Taste F11: blendet die linke Dateinavigation aus oder ein (dort kann man seine ganzen letzten Dateien gelistet sehen).
 
-* Copy und Paste aus einem CoP-Beitrag:
+## Copy und Paste aus einem CoP-Beitrag:
 - Humhub aufrufen - Artikel in der CoP suchen
 - CoP-Beitrag markieren (ohne die Tags und ohne die Box "Persönliche Unterstützung und Beratung zu OER finden Sie bei der Netzwerkstelle ORCA.nrw an Ihrer Hochschule."
 und kopieren (Strg. C)
@@ -49,13 +59,13 @@ Aber da das Bild auf dem Communityserver bei humhub liegt und nicht öffentlich 
 
 - File Save as: Dateiname setzt sich zusammen aus dem Veröffentlichungsdatum auf humhub (YYYYMMDD) einem Unterstrich _ und dann 2-3 Wörter als Kurztitel. ACHTUNG: keine Leerstellen und keine Umlaute oder das "ß" benutzen.
 
-# 2 Datei ins Github bringen
+# Datei ins Github bringen
 - https://github.com/lindahalm-hsbi/infOERmiert/tree/main öffnen
 - Add file > Upload File: .md. Datei von Festplatte auswählen (choose) und hochladen.
 - Auf COMMIT klicken (grüner Button)
 - ca. 2 Minuten warten: Im Hintergrund wird die neue -md-Datei verarbeitet. Unter ACTIONS könnt ihr nachschauen, ob alles reibungslos klappt. Beim ersten Mal wird das schief gehen (Rotes X), weil ein Link zu einer Bilddateidrin steht, den es nicht gibt (nämlich den humhub-Link).
 
-# 3 Datei finalisieren (Bilder einbetten)
+# Datei finalisieren (Bilder einbetten)
 - Code-Übersicht: die letzte Datei anklicken
 - mit dem Bleistift in den Editiermodus gehen
 - von Preview in Code wechseln
@@ -110,11 +120,11 @@ und schreibt damit den HTML-Code:
 ### Beispiel aus einer Datei aus unseren CoP-Blog:
 ![markdown-Abstände zu Bildern angeben](https://github.com/lindahalm-hsbi/helpme-copteam/assets/147709351/5fc1aaef-0916-4fa7-a516-ac51a76693f8)
 
-# 4  Landing page prüfen
+# Landing page prüfen
 Nach ein paar Minuten ist die ACTION positiv durchgelaufen (grüner Haken dran) und die Landing Page ist erstellt worden. Auf der Code-Übersichtsseite könnt ihr im Teil README auf "LANDNING PAGE" kliekt und das Ergebniss überprüfen.
 Ist die Action nicht grün, sondern rot, dann hat die -md-Datei noch Fehler und ihr müsst auf die Suche gehen.
 
-# 5 Exkurs: Warum möchte ich meine Materialien in Github produzieren und nicht in PowerPoint oder Word?
+# Exkurs: Warum möchte ich meine Materialien in Github produzieren und nicht in PowerPoint oder Word?
 * Ich kann mit mehreren Personen gleichzeitg auf Github schreiben und mir die Arbeit teilen. 
 * Wenn ich mit dem OER-Template der TIB Hannover arbeite, ist das Erstellen vom OER ganz einfach. Also perfekt für den Start in die Github-Welt. 
 * Github kann aus meinen Texten Webseiten und Texte produzieren. Und die Webseiten werden dann auf Github gehostet. Ich brauche also kein eigenes Wordpress und keinen Webserver. Das Output ist eine PDF-Datei oder eine Webseite oder beides. Schreiben muss ich aber nur reinen Text und ums Layout kümmere ich mich nicht mehr. 
