@@ -79,9 +79,25 @@ Leider kann man in Markdown Bilder nicht verkleinern oder umlaufende Texte gesta
 ## Bilder: Rechts- oder linksbündigbündig und verkleinern und einen Abstand zum umlaufenden Text einrichten
 Bildern andere Merkmale mitgeben, geht nur, wenn man den Markdowneintrag löscht und statt dessen HTML verwendet.
 
-Bild benutzen: <img src="URL-der-Bilddatei" />
-Breite des Bildes festlegen: width="150px"
-An rechte oder linke Seite schieben: style="float: left" left. Nicht irritieren lassen: in github sieht man das rechts- oder linksbündig sein NICHT - erst auf der Landing Page wird das umgesetzt. Abstand zum umlaufenden Text: style="margin: 20px 50px 20px 0px". Es bewährt sich: 20 Pixel nach oben und unten. Null Pixel zum äußeren Rand und 50 Pixel zum rechts- oder linksbündigen Rand. Die 4 Werte werden im Urhzeigersinn oben startend angeben (margin: 20px 50px 20px 0p BEDEUTET oben: 20px; rechts: 50px; unten: 20px; links: 0px)
+*Bild benutzen:* 
+
+    img src="URL-der-Bilddatei"
+    
+*Breite des Bildes festlegen:*
+
+    width="150px"
+    
+*An rechte oder linke Seite schieben:*
+
+    style="float: left" 
+    
+Nicht irritieren lassen: in github sieht man das rechts- oder linksbündig sein NICHT - erst auf der Landing Page wird das umgesetzt. 
+
+*Abstand zum umlaufenden Text:*
+
+    style="margin: 20px 50px 20px 0px" 
+
+Es bewährt sich: 20 Pixel nach oben und unten. Null Pixel zum äußeren Rand und 50 Pixel zum rechts- oder linksbündigen Rand. Die 4 Werte werden im Urhzeigersinn oben startend angeben (margin: 20px 50px 20px 0p BEDEUTET oben: 20px; rechts: 50px; unten: 20px; links: 0px)
 
 Ihr kopiert euch also aus dem Markdowneintrag den Link zum Bild (https://...) den Titel und den Alternativtext...
 
@@ -100,8 +116,8 @@ Ist die Action nicht grün, sondern rot, dann hat die -md-Datei noch Fehler und 
 
 # 5 Exkurs: Warum möchte ich meine Materialien in Github produzieren und nicht in PowerPoint oder Word?
 * Ich kann mit mehreren Personen gleichzeitg auf Github schreiben und mir die Arbeit teilen. 
-* Wenn ich mit dem OER-template der TIB Hannover arbeite, ist das Erstellen vom OER ganz einfach. Also perfekt für den Start in die Github-Welt. 
-* Github kann aus meinen Texten Webseiten und Texte produzieren. Und die Webseiten werden dann auf Github gehostet. Ich brauche also kein eigenes Wordpress und keinen Webserver.Das Output ist eine PDF-Datei oder eine Webseite oder beides. Schreiben muss ich aber nur reinen Text und ums Layout kümmere ich mich nicht mehr. 
+* Wenn ich mit dem OER-Template der TIB Hannover arbeite, ist das Erstellen vom OER ganz einfach. Also perfekt für den Start in die Github-Welt. 
+* Github kann aus meinen Texten Webseiten und Texte produzieren. Und die Webseiten werden dann auf Github gehostet. Ich brauche also kein eigenes Wordpress und keinen Webserver. Das Output ist eine PDF-Datei oder eine Webseite oder beides. Schreiben muss ich aber nur reinen Text und ums Layout kümmere ich mich nicht mehr. 
 * Das Output wird automatisch in OERSI veröffentlicht und indiziert und ist über www.oersi.org für jeden auffindbar. 
 * Github speist alle öffenlichen Repositorien (egal ob Softwarecode oder Textseite) in die Google-Suche ein. Das erhöht meine Reichweite enorm. 
-* Die automatische Generierung übernimmt meinen Inhalt (genauer: alles in den Markdown-Dateien, also die Dateien, die mit .md enden) und generiert verschiedene Ausgabeformate. Dazu gehören beispielsweise eine Webseite und eine PDF- Version meiner OER und die sind öffentlich zugänglich. Diese Generierung erfolgt jedes Mal, wenn ich etwas an meinem Repository ändere, sodass mein Inhalt immer auf dem neuesten Stand ist.
+* Die automatische Generierung übernimmt meinen Inhalt (genauer: alles in den Markdown-Dateien, also die Dateien, die mit .md enden) und generiert verschiedene Ausgabeformate. Dazu gehören beispielsweise eine Webseite und eine PDF-Version meiner OER und die sind öffentlich zugänglich. Diese Generierung erfolgt jedes Mal, wenn ich etwas an meinem Repository ändere, sodass mein OERSI-Suchreffer immer auf den neuesten Stand verlinkt.
