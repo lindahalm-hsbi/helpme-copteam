@@ -1,13 +1,12 @@
 ---
 creativeWorkStatus: Draft  # Incomplete, Draft, Published
-name: helpeme-copteam
+name: helpme-copteam
 description: >
   Hilfedateien um die Artikel aus der CoP ins OERSI zu bekommen. Dieses Repository ist verfügbar als Webseite, Ebook, PDF und HTML und wird fortlaufend erweitert.
 license:
   id: https://creativecommons.org/licenses/by/4.0/deed.de
 creator:
-  - name: Netzwerk Landesportal ORCA.nrw
-    type: Organization
+  - name: Linda Halm
 keywords:
   - OERSI
   - Tutorial
