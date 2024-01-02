@@ -14,7 +14,6 @@ ______________ 2 0 2 3 _________________________________________________________
  
 ______________ 2 0 2 2 __________________________________________________________
   
-    13.04.2022: “Grafiken zur freien (Nach-)Nutzung – die „Open Access Icons“ (Tassja)https://community.orca.nrw/content/perma?id=31307
     28.04.2022: “Was möchten die ORCA-Netzwerkstellen den Lehrenden gern über OER sagen?” (Magda) https://community.orca.nrw/content/perma?id=34001
     24.05.22: “Freie Personengrafiken für alle!” (Henrike) https://community.orca.nrw/content/perma?id=39241
     07.06.22: “OER Fachtag Naturwissenschaften” (Elisabeth) https://community.orca.nrw/content/perma?id=40912
