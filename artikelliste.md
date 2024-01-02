@@ -14,7 +14,6 @@ ______________ 2 0 2 3 _________________________________________________________
  
 ______________ 2 0 2 2 __________________________________________________________
   
-    15.03.2022: “Podcast zu ORCA.nrw und den ORCA-Berater*innen an NRW-Hochschulen” (Magda) https://community.orca.nrw/content/perma?id=24956
     01.04.2022: “Die OER-Planungshilfe - Schritt für Schritt zur OER” (Bianca)  https://community.orca.nrw/content/perma?id=28766
     13.04.2022: “Grafiken zur freien (Nach-)Nutzung – die „Open Access Icons“ (Tassja)https://community.orca.nrw/content/perma?id=31307
     28.04.2022: “Was möchten die ORCA-Netzwerkstellen den Lehrenden gern über OER sagen?” (Magda) https://community.orca.nrw/content/perma?id=34001
