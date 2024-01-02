@@ -5,10 +5,6 @@ Noch zu übertragen:
 ______________ 2 0 2 3 __________________________________________________________
     22.02.2023 “Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht” (Magda) https://community.orca.nrw/content/perma?id=85079
     22.03.2023: “Kurzreview Gutachten: Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung” (Svenja) https://community.orca.nrw/content/perma?id=89894
-
- 
-? wollen wir das mit übernehmen?würde zeigen, was NRW tolles hat?  
-16.05.2023 “Rechtsfragen zu OER? Hier wird geholfen!” (Sabine) https://community.orca.nrw/content/perma?id=100052
  
 ______________ 2 0 2 2 __________________________________________________________
   
