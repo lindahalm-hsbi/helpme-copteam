@@ -15,8 +15,7 @@ ______________ 2 0 2 3 _________________________________________________________
 ______________ 2 0 2 2 __________________________________________________________
   
     07.06.22: “OER Fachtag Naturwissenschaften” (Elisabeth) https://community.orca.nrw/content/perma?id=40912
-    24.06.22: “Über den Tellerrand geschaut: OER-Veranstaltungshinweise für den Juni und Juli” (Laura) https://community.orca.nrw/content/perma?id=43816
-    30.06.22: “Urheberrecht und freie Lizenzen: Eine sehenswerte Einführung” (Tassja) https://community.orca.nrw/content/perma?id=45112
+    24.06.22: “Über den Tellerrand geschaut: OER-Veranstaltungshinweise für den Juni und Juli” (Laura) https://community.orca.nrw/content/perma?id=43816 (ergibt es Sinn den Beitrag zu übertragen, auch wenn die beworbenen Veranstaltungen bereits vorbei sind?)
     12.07.22: “5 Tipps für die Erstellung von Präsentationsfolien als OER!” (Henrike) https://community.orca.nrw/content/perma?id=47383
     30.09.22: “Studiensituation reflektieren auf ORCA.nrw - Selbsteinschätzungstool moveo” (Florian) https://community.orca.nrw/content/perma?id=60193
     29.07.22: “Einsatz von H5P zur Erstellung barrierefreier OER” (Laura) https://community.orca.nrw/content/perma?id=50476
