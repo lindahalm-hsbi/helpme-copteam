@@ -3,8 +3,6 @@ Löscht bitte die Artikel, die schon hier umgesetzt sind oder bei euch aktuell i
 Noch zu übertragen:
 
 ______________ 2 0 2 3 __________________________________________________________
-   
-    15.02.2023 “Stimmen der OER-Community – 3 Fragen an Dr. Sabine Preusse” (Bianca Geurden) https://community.orca.nrw/content/perma?id=83606
     22.02.2023 “Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht” (Magda) https://community.orca.nrw/content/perma?id=85079
     22.03.2023: “Kurzreview Gutachten: Didaktische und rechtliche Perspektiven auf KI-gestütztes Schreiben in der Hochschulbildung” (Svenja) https://community.orca.nrw/content/perma?id=89894
 
