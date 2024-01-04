@@ -3,7 +3,7 @@ Löscht bitte die Artikel, die schon hier umgesetzt sind oder bei euch aktuell i
 Noch zu übertragen:
 
 ______________ 2 0 2 3 __________________________________________________________
-    22.02.2023 “Vergeben einer Creative-Commons-Lizenz: Mit kleinen Tools leicht gemacht” (Magda) https://community.orca.nrw/content/perma?id=85079
+
  
 ______________ 2 0 2 2 __________________________________________________________
   
