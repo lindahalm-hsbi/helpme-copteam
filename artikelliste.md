@@ -1,6 +1,7 @@
 Löscht bitte die Artikel, die schon hier umgesetzt sind oder bei euch aktuell in Arbeit. Veranstaltungstipps veröffentlichen wir hier nicht. Und auch Posts, die sich direkt auf ein ORCA.nrw Angebot für Lehrende beziehennicht (z.B. Rechtsinformationstelle).
 
 Noch zu übertragen:
+
 ______________ 2 0 2 4 __________________________________________________________
 18.01.2024: “Auf zur Schnipsel-Jagd! Legevideos für OER produzieren” (Elisabeth)
 https://community.orca.nrw/content/perma?id=132097
