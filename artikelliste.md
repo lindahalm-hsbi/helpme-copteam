@@ -3,6 +3,7 @@ Löscht bitte die Artikel, die schon hier umgesetzt sind oder bei euch aktuell i
 Noch zu übertragen:
 
 ______________ 2 0 2 4 __________________________________________________________
+
 18.01.2024: “Auf zur Schnipsel-Jagd! Legevideos für OER produzieren” (Elisabeth)
 https://community.orca.nrw/content/perma?id=132097
 02.02.2024: "Tipps für die Erstellung von Online-Kursen" (Laura)
